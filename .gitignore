@@ -18,7 +18,3 @@ Thumbs.db
 Desktop.ini
 .vscode/
 .idea/
-AGENTS.md
-
-__pycache__/
-*.py[cod]
