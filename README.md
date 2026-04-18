@@ -1,6 +1,6 @@
 # Steam Stalker
 
-Steam Stalker mirrors the display name and avatar from a public Steam profile onto your own Steam account. It is a small Windows-oriented Node.js utility built around `steam-user`, and it depends on Steam behavior that can change without notice.
+Steam Stalker mirrors the display name and avatar from a public Steam profile onto your own Steam account. It is a small Windows-oriented Node.js utility built around `steam-user`.
 
 ## Requirements
 
