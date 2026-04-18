@@ -1,0 +1,17 @@
+{
+  "name": "steam-stalker",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "Mirror a Steam profile name and avatar using refresh-token login.",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node steam_mirror.js"
+  },
+  "dependencies": {
+    "steam-user": "^5.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "target_profile": "https://steamcommunity.com/id/example/",
+    "steam_username": "your_steam_account_name",
+    "sync_on_start": true,
+    "download_images": true,
+    "poll_interval": 300,
+    "persona_state": "invisible"
+}
