@@ -5,7 +5,7 @@ Steam Stalker mirrors the display name and avatar from a public Steam profile on
 ## Requirements
 
 - Windows
-- Node.js 20 or newer
+- [Node.js 20 or newer](https://nodejs.org/en/download)
 - A public target Steam profile
 - A Steam account you can log into normally through the official client
 
