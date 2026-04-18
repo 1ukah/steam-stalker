@@ -28,7 +28,7 @@ Copy-Item config.example.json config.json
 node .
 ```
 
-On the first successful login, Steam may prompt for your password and Steam Guard code. After that, the script stores a refresh token encrypted with Windows DPAPI under `.steam_secrets/` so later launches can usually reuse the saved login.
+On the first login, Steam may prompt for your password and Steam Guard code. After that, the script stores a refresh token encrypted with Windows DPAPI under `.steam_secrets/` so later launches can usually reuse the saved login.
 
 ## Configuration
 
