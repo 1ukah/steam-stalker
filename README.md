@@ -59,7 +59,7 @@ Example:
 
 ## Pun Mode
 
-Pun mode is intentionally conservative. It reads literal pun candidates from `pun_file` and tries a few deterministic blend strategies that keep the original nickname recognizable:
+Pun mode reads literal pun candidates from `pun_file` and tries a few deterministic blend strategies that keep the original nickname recognizable:
 
 - full pun replacement when the pun already clearly contains the original name or a strong fragment of it
 - start or end overlap blends such as `Then` + `SOT` -> `SOThen`
