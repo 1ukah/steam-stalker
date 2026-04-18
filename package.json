@@ -5,12 +5,12 @@
   "license": "MIT",
   "description": "Automatically sync your Steam profile name and avatar from another public profile.",
   "type": "commonjs",
-  "main": "steam_mirror.js",
+  "main": "index.js",
   "engines": {
     "node": ">=20"
   },
   "scripts": {
-    "start": "node steam_mirror.js"
+    "start": "node ."
   },
   "dependencies": {
     "steam-user": "^5.0.0"

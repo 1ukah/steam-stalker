@@ -1,7 +1,7 @@
-const { SteamMirrorApp } = require("./lib/app");
+const { SteamStalkerApp } = require("./lib/app");
 
 async function main() {
-  const watcher = new SteamMirrorApp();
+  const watcher = new SteamStalkerApp();
   await watcher.run();
 }
 
